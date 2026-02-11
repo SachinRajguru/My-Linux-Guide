@@ -1,5 +1,5 @@
 
-# Linux - Folder Structures
+# Section 2: Linux - Folder Structures
 
 ## Overview
 - **Focus**: Default folder structure in the Linux root filesystem (/). Essential for troubleshooting, admin tasks, and understanding organization.
