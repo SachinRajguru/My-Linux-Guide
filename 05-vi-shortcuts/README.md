@@ -1,5 +1,4 @@
 
-
 # Section 5: Vi Editor Shortcuts
 
 4. [Section 5: Vi Editor Shortcuts](#section-5-vi-editor-shortcuts)
