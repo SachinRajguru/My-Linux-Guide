@@ -10,7 +10,6 @@ The guide includes clear sections, explanations, key commands, examples, and int
 
 ## Section 3: User Management
 
-### Table of Contents
 1. [Section 3: User Management](#section-3-user-management)
    - [Why User Management Matters](#why-user-management-matters)
    - [Understanding Users and the Root User](#understanding-users-and-the-root-user)

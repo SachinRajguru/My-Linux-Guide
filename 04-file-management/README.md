@@ -1,8 +1,6 @@
 
 # Section 4: File Management
 
-## Table of Contents
-
 2. [Section 4: File Management](#section-4-file-management)
    - [Introduction to File Systems](#introduction-to-file-systems)
    - [Listing Files and Directories](#listing-files-and-directories)
