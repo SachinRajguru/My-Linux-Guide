@@ -138,6 +138,6 @@ drwxr-xr-x 2 root      root      4096 Oct 10 12:00 tmp/
 - Official Docs: `man chmod`, `man chown`, `man ls`.
 - GitHub Repo: Full examples in `README.md` (symbolic/numeric modes, demos).
 - Tutorials: Linux permissions guides or `chmod` calculator tools.
-- Next: Advanced topics like ACLs or SELinux.
+- Next: Advanced topics like `ACLs` or `SELinux`.
 
 ---
